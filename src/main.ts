@@ -2,6 +2,8 @@ import './style.css';
 
 import './01-basic-types';
 import './02-type-inference';
+import './04-generics';
+import './05-as-const';
 
 // import typescriptLogo from './typescript.svg';
 // import viteLogo from '/vite.svg';
